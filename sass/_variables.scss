@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+//Colores
+$VerdeFuerte: hsl(75, 94%, 57%);
+$Blanco: #ffffff;
+$Gris: hsl(0, 0%, 20%);
+$GrisOscuro: hsl(0, 0%, 12%);
+$Fondonegro: hsl(0, 0%, 8%);
+$Fuente: "Inter", sans-serif;
+
+// Tamaño de Media Queries
+$telefono: 480px;
+$tablet: 768px;
+$desktop: 1024px;
+$xl_desktop: 1200px;
+
+// Fuentes
+$muydelgada: 100;
+$mediodelgada: 200;
+$delgada: 300;
+$regular: 400;
+$semibold: 600;
+$bold: 700;
+$black: 900
